@@ -24,7 +24,7 @@ Implementar método para alterar a página entre modo claro e modo noturno, util
 Integrar a biblioteca de ícones do Bootstrap: Bootstrap Icons;
 Aplicar ícones no projeto construindo o rodapé.
 
-Projeto da cafeteria Serenatto, explorando a documentação do Bootstrap, conferindo todos os novos recursos da versão 5! Agora, você tem superpoderes para construir outras páginas com esse Framework CSS mais utilizado no mundo! #AprendiNaAlura
+Explorando a documentação do Bootstrap, conferindo todos os novos recursos da versão 5!! #AprendiNaAlura
 
 <h2> Link do Projeto </h2>
   
